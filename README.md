@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+< This is me, friends usually call me John or Hidden online.
 
 - 🔭 I’m currently working on BluePower and other mods in my spare time
 - 💬 Ask me anything about Powershell
