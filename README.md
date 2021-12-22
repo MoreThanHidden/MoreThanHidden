@@ -1,7 +1,7 @@
 ### Hi there 👋
-< This is me, friends usually call me John or Hidden online.
+< This is me, I usually go by John or Hidden online.
 
-- 🔭 I’m currently working on BluePower and other mods in my spare time
+- 🔭 I’m currently working on [BluePower](https://github.com/Qmunity/BluePower) and other mods in my spare time
 - 💬 Ask me anything about Powershell
 - 👔 As a Senior ICT Field Support / System Admin I work with Windows and Linux Servers on a daily basis.
 
