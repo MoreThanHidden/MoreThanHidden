@@ -1,10 +1,10 @@
 ### Hi there 👋
-< This is me, I usually go by John or Hidden online.
+< This is me, I usually go by John, VK6TCP or Hidden online.
 
 - 🔭 I’m currently working on [BluePower](https://github.com/Qmunity/BluePower) and other mods in my spare time
 - 💬 Ask me anything about Powershell
 - 👔 As a Senior ICT Field Support / System Admin I work with Windows and Linux Servers on a daily basis.
-- 📻 New to Amature Radio, been into SDR / HF Listener for a few years.
+- 📻 New to Amature Radio just got my license, been into SDR / HF Listener for a few years.
 
 ### Socials
 <a href="https://twitter.com/MoreThanHidden"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
