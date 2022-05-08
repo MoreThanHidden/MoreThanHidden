@@ -12,3 +12,4 @@
 &ensp;<a href="https://www.youtube.com/channel/UCAnZRwybQeHeDUnedRPj_UA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/john-hannan-3412951a6/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://github.com/MoreThanHidden"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="30"/></a>
+&ensp;<a href="https://www.qrz.com/db/vk6tcp"><img src="https://cdn-bio.qrz.com/p/vk6tcp/QRZ.png" title="QRZ" alt="QRZ" width="30"/></a>
